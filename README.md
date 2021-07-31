@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kor-pixel
 - 👀 I’m interested in financial technology and software development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Computer Science and Engineering at Sejong University
 - 📫 How to reach me: (to be updated)
 
 <!---
