@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kor-pixel
 - 👀 I’m interested in financial technology and software development
 - 🌱 I’m currently learning Computer Science and Engineering at Sejong University
-- 📫 How to reach me: (to be updated)
+- 📫 How to reach me: kor_pixel@fastmail.com
 
 <!---
 kor-pixel/kor-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
