@@ -30,5 +30,5 @@ myself = {
 }
 
 secret = 'SXRzIG5pY2UgdG8gbWVldCB5b3U='
-print("are_you_reading_this?", base64.b64decode(secret))
+print("are you reading this?", base64.b64decode(secret))
 ```
