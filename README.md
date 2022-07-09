@@ -23,7 +23,7 @@ myself = {
 
 #Learning
 "Languages": "Rust, Typescript",
-"Frameworks and libraries": "Flutter, React, Next.js, Tauri",
+"Frameworks and libraries": "Flutter, React, Next.js, Tauri, Firebase",
 "Other": "WebAssembly Implementations, Mongodb",
 
 "portfolio": "Coming Soon"
