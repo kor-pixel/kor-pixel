@@ -9,7 +9,7 @@ import base64
 myself = {
 
 #Operating Systems
-"Client OS": "Ubuntu LTS and Mac Workstation",
+"Client OS": "Ubuntu LTS and Mac",
 "Server OS": "Ubuntu LTS",
 
 #Languages
@@ -23,7 +23,7 @@ myself = {
 
 #Learning
 "Languages": "Rust, Typescript",
-"Frameworks and libraries": "Flutter, React, Next.js",
+"Frameworks and libraries": "Flutter, React, Next.js, Tauri",
 "Other": "WebAssembly Implementations, Mongodb",
 
 "portfolio": "Coming Soon"
