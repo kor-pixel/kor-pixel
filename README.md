@@ -26,7 +26,7 @@ myself = {
 "Frameworks and libraries": "Flutter, React, Next.js, Tauri, Firebase",
 "Other": "WebAssembly Implementations, Mongodb",
 
-"portfolio": "Coming Soon"
+"portfolio": "Coming Soon @ kor-pixel.dev"
 }
 
 secret = 'SXRzIG5pY2UgdG8gbWVldCB5b3U='
