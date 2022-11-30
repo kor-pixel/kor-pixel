@@ -16,10 +16,13 @@ myself = {
 "Programming": "Javascript, Python 3, C#, C, C++",
 
 #Terminal
-"Shell": "zsh 5.8.1" ,
 "Emulator": "Kitty",
-"Prompt": "Startship",
 "Theme": "Espresso",
+"Shell": "zsh",
+"Manager": "ohmyzsh",
+"Plugins": "zsh-autosuggestions",
+"Prompt": "Startship",
+
 
 #Learning
 "Languages": "Rust, Typescript",
