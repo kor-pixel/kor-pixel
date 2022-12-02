@@ -16,7 +16,7 @@ myself = {
 "Programming": "Javascript, Python 3, C#, C, C++",
 
 #Terminal
-"Emulator": "Kitty",
+"Emulator": "Wezterm",
 "Theme": "Espresso",
 "Shell": "zsh",
 "Manager": "ohmyzsh",
