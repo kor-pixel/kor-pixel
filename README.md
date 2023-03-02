@@ -21,7 +21,7 @@ myself = {
 "Shell": "zsh",
 "Manager": "ohmyzsh",
 "Plugins": "zsh-autosuggestions",
-"Prompt": "Startship",
+"Prompt": "Starship",
 
 
 #Learning
