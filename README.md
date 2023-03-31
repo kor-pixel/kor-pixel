@@ -17,7 +17,7 @@ myself = {
 
 #Terminal
 "Emulator": "Wezterm",
-"Theme": "Espresso",
+"Theme": "seoulbones_dark",
 "Shell": "zsh",
 "Manager": "ohmyzsh",
 "Plugins": "zsh-autosuggestions",
