@@ -12,8 +12,9 @@ myself = {
 "Client OS": "Ubuntu and Mac",
 "Server OS": "Ubuntu LTS",
 
-#Languages
-"Programming": "Javascript, Python 3, C#, C, C++",
+#Skillset
+"Programming languages": "Javascript, Python 3, C#, C, C++",
+"Frameworks and libraries": "Blazor Web Framework",
 
 #Terminal
 "Emulator": "Wezterm",
@@ -25,7 +26,7 @@ myself = {
 
 
 #Learning
-"Languages": "Rust, Typescript",
+"Programming languages": "Rust, Typescript",
 "Frameworks and libraries": "Flutter, React, Next.js, Tauri, Firebase",
 "Other": "WebAssembly Implementations, Mongodb",
 
