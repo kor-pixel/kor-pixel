@@ -27,8 +27,8 @@ myself = {
 
 #Learning
 "Programming languages": "Rust, Typescript",
-"Frameworks and libraries": "Flutter, React, Next.js, Tauri, Firebase",
-"Other": "WebAssembly Implementations, Mongodb",
+"Frameworks and libraries": "Flutter, React, Next.js, Tauri, Firebase, .NET MAUI",
+"Other": "WebAssembly Implementations, Mongodb, Postgres",
 
 #portfolio
 "Website": "Coming Soon @ kor-pixel.dev"
