@@ -9,8 +9,8 @@ import base64
 myself = {
 
 #Operating Systems
-"Client OS": "Ubuntu and Mac",
-"Server OS": "Ubuntu LTS",
+"Client OS": "Fedora and Mac",
+"Server OS": "Rocky Linux",
 
 #Skillset
 "Programming languages": "Javascript, Python 3, C#, C, C++",
