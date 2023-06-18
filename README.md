@@ -9,7 +9,7 @@ import base64
 myself = {
 
 #Operating Systems
-"Client OS": "Fedora and Mac",
+"Client OS": "Fedora KDE and Mac",
 "Server OS": "Rocky Linux",
 
 #Skillset
