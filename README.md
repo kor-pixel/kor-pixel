@@ -10,7 +10,7 @@ myself = {
 
 #Operating Systems
 "Client OS": "Fedora KDE and Mac",
-"Server OS": "Rocky Linux",
+"Server OS": "Alma Linux",
 
 #Skillset
 "Programming languages": "Javascript, Python 3, C#, C, C++",
