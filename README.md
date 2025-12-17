@@ -9,7 +9,7 @@ import base64
 myself = {
 
 #Operating Systems
-"Client OS": "Ubuntu KDE and Mac",
+"Client OS": "Kubuntu, Windows and Mac",
 "Server OS": "Ubuntu LTS",
 
 #Skillset
