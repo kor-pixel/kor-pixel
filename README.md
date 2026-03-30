@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kor-pixel, a full stack developer with an interest in deep learning and financial technology.
 - 📚 I’m currently a Gradute Student studying Computer Science and Engineering at Sejong University
-- 📫 How to reach me: kor_pixel@fastmail.com
+- 📫 How to reach me: mail (at) kor-pixel.dev
 
 
 ```python
