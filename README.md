@@ -31,7 +31,7 @@ myself = {
 "Other": "WebAssembly Implementations, Mongodb, Postgres",
 
 #portfolio
-"Website": "Coming Soon @ kor-pixel.dev"
+"Website": "kor-pixel.dev"
 }
 
 secret = 'SXRzIG5pY2UgdG8gbWVldCB5b3U='
