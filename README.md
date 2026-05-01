@@ -14,7 +14,7 @@ myself = {
 
 #Skillset
 "Programming languages": "Javascript, Python 3, C#, C, C++",
-"Frameworks and libraries": "Blazor Web Framework",
+"Frameworks and libraries": "Blazor Web Framework, SvelteKit",
 
 #Terminal
 "Emulator": "Wezterm",
